@@ -35,6 +35,7 @@ Data preprocessing, analysis, and machine learning classification on football pl
 Java-based simulations for DMA Bus Arbitration, Mano Machine Assembler, and Boolean Logic.
 
 🔗 [View Project](https://github.com/kaankuzucanli/computer-architecture-simulators)
+
 ---
 
 Currently working on my graduation project and expanding my software development portfolio.
