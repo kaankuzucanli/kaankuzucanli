@@ -6,33 +6,35 @@
 
 - Java
 - Python
+- Git & GitHub
+
+## Currently Learning
+
 - Machine Learning
 - Kubernetes
 - Google Cloud
-- Git & GitHub
 
 ## Projects
 
 ### ☁️ TechCorp Cloud Deployment
-Flask tabanlı bir web uygulamasının Docker, Kubernetes (GKE) ve Cloud Build kullanılarak buluta dağıtılması.
+Deployment of a Flask-based web application using Docker, Kubernetes (GKE), and Google Cloud Build.
 
 🔗 [View Project](https://github.com/kaankuzucanli/techcorp-cloud-deployment)
 
 ### 🧠 Garbage Classification CNN
-Transfer learning kullanılarak 12 farklı atık sınıfının görüntü üzerinden sınıflandırılması.
+Image classification of 12 waste categories using transfer learning and convolutional neural networks.
 
 🔗 [View Project](https://github.com/kaankuzucanli/garbage-classification-cnn)
 
 ### ⚽ Football Player Data Mining
-Futbolcu performans verileri üzerinde veri ön işleme, analiz ve makine öğrenmesi sınıflandırması.
+Data preprocessing, analysis, and machine learning classification on football player performance data.
 
 🔗 [View Project](https://github.com/kaankuzucanli/football-player-data-mining)
 
 ### 💻 Computer Architecture Simulators
-Java ile geliştirilen DMA Bus Arbitration, Mano Machine Assembler ve Boolean Logic simülatörleri.
+Java-based simulations for DMA Bus Arbitration, Mano Machine Assembler, and Boolean Logic.
 
 🔗 [View Project](https://github.com/kaankuzucanli/computer-architecture-simulators)
-
 ---
 
-Currently working on my graduation project and new software projects.
+Currently working on my graduation project and expanding my software development portfolio.
