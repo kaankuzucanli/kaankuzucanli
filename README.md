@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Kaan Kuzucanlı 👋
 
-<!--
-**kaankuzucanli/kaankuzucanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year Computer Engineering student interested in software development, machine learning, AI and cloud technologies.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- Machine Learning
+- Kubernetes
+- Google Cloud
+- Git & GitHub
+
+## Projects
+
+### ☁️ TechCorp Cloud Deployment
+Flask tabanlı bir web uygulamasının Docker, Kubernetes (GKE) ve Cloud Build kullanılarak buluta dağıtılması.
+
+🔗 [View Project](https://github.com/kaankuzucanli/techcorp-cloud-deployment)
+
+### 🧠 Garbage Classification CNN
+Transfer learning kullanılarak 12 farklı atık sınıfının görüntü üzerinden sınıflandırılması.
+
+🔗 [View Project](https://github.com/kaankuzucanli/garbage-classification-cnn)
+
+### ⚽ Football Player Data Mining
+Futbolcu performans verileri üzerinde veri ön işleme, analiz ve makine öğrenmesi sınıflandırması.
+
+🔗 [View Project](https://github.com/kaankuzucanli/football-player-data-mining)
+
+### 💻 Computer Architecture Simulators
+Java ile geliştirilen DMA Bus Arbitration, Mano Machine Assembler ve Boolean Logic simülatörleri.
+
+🔗 [View Project](https://github.com/kaankuzucanli/computer-architecture-simulators)
+
+---
+
+Currently working on my graduation project and new software projects.
